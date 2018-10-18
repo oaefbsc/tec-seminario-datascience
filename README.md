@@ -9,4 +9,4 @@ Antes del inicio de la tercera y cuarta sesiones estarán publicados los noteboo
 
 Adicionalmente, en _tec-seminario-datascience.pdf_ pueden revisar la bibliografía recomendada para consulta
 
-No olviden crear su cuenta de **Slack** para crear un grupo de trabajo, compartir dudas (claro, solucionarlas entre todos) y extender un poco los conceptos tratados en el curso.
+Consideren por favor crear su cuenta de **Slack** para constituir un grupo de trabajo dentro del cual podamos compartir dudas (claro, solucionarlas entre todos) y extender un poco los conceptos tratados en el curso.
