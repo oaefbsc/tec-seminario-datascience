@@ -1,5 +1,5 @@
 # tec-seminario-datascience
-Material del seminario
+Material de trabajo para el seminario "Introducción a la ciencia de datos para la toma de decisiones en el sector energético"
 
 En la carpeta **M1-IntroPython** se encuentran los notebooks de la primera sesión.
 
